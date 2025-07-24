@@ -1,20 +1,3 @@
-/* General reset and styling */
-/* App.css */
-body {
-  margin: 0;
-  padding: 0;
-  background-image: url("C:\Users\Karthik\OneDrive\Desktop\glitter.gif");
-  /* ✅ From public folder */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  height: 100vh;
-  width: 100vw;
-  overflow-x: hidden;
-}
-
-
 
 /* Container setup */
 .app-container {
